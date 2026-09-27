@@ -192,7 +192,7 @@ python evaluate.py IR-Plag-Dataset --no-model # structural only, runs in seconds
 | *Rename toggle off (exact matching only)* | <img src="screenshots/exact_mode/Screenshot%202026-09-27%20224216.png" width="400"> |
 | *Block-level side-by-side (partial copy demo)* | <img src="screenshots/block_level/Screenshot%202026-09-27%20224705.png" width="400"> |
 | *Who used unique logic: approach groups* | <img src="screenshots/unique_mode/Screenshot%202026-09-27%20224839.png" width="400"> |
-| *70-file heatmap (copy ring visible as a red block)* | <img src="screenshots/case_02.zip/Heat_Map.png" width="400"> |
+| *70-file heatmap (copy ring visible as a red block)* | <img src="screenshots/case02_zip/Heat_Map.png" width="400"> |
 
 
 ---
